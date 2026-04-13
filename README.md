@@ -2,6 +2,6 @@
 
 Im Ender.
 
-Im the lead dev of EnderOS, a live-only portable linux distro based on Arch
+Im the lead dev of EnderOS, a live linux distro based on Artix
 
-I use arch btw.
+I use Artix Linux
